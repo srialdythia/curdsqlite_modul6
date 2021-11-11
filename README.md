@@ -1,0 +1,1 @@
+# curdsqlite_modul6
